@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import static java.lang.System.*;
 
 
@@ -16,3 +17,18 @@ public class MunroStart  {
 
 
 }
+=======
+import static java.lang.System.*;
+
+
+public class MunroStart  {
+
+
+
+    public static void main(String[] args) {
+
+    }
+
+
+}
+>>>>>>> update file
